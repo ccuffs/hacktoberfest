@@ -48,15 +48,27 @@ git config --list
 
 Acesse [github.com](https://github.com) e efetue login com seu usuário e senha. Depois, clique no botão com um `+` (no canto superior direito da tela) e escolha `New repository`.
 
-Na tela para criar um novo repositóio, escolha um nome para ele, se ele é publico (todos tem acesso) ou privado (somente você tem acesso), e se ele deve ser inicializado com um conteúdo inicial (geralmente um arquivo README).
+![Clique no link "New repository" para criar um novo repositório](../images/tutorial/github-click-novo-repo.png)
 
-Por fim, clique no botão verde `Create repository` para criar seu repositório.
+Na tela de criar um novo repositóio (mostrada abaixo) aparecerá:
+
+![Tela de criação de um novo repositório](../images/tutorial/github-novo-repo.png)
+
+Escolha um nome para seu novo repositório, se ele é publico (todos tem acesso) ou privado (somente você tem acesso), e se ele deve ser inicializado com um conteúdo inicial (geralmente um arquivo README).
+
+> *Dica:* geralmente repositórios tem nomes com todas as letras minúsculas, com `-` representando espaços, ex.: `meu-repositorio-lindo`.
+
+Por fim, clique no botão verde `Create repository` para criar seu repositório. Seu repositório novo recém criado será mostrado:
+
+![Tela mostrando um repositório novo recém criado](../images/tutorial/github-novo-repo-criado.png)
 
 ## Baixando o repositório para sua máquina (clonar o respositório)
 
 Depois que o repositório for criado no [Github](https://github.com), precisamos baixar ele para a sua máquina. Essa operação é chamada de `git clone`.
 
-Ao clicar no botào `Clone or download` do respositório, você pode escolher qual URL deseja usar. Para esse tutorial, vamos escolher a URL com `HTTPS`. Copie essa URL.
+Ao clicar no botão `Clone or download` do respositório, você pode escolher qual URL deseja usar. Para esse tutorial, vamos escolher a URL com `HTTPS`. Copie essa URL.
+
+![Botão para obter informações para clonar um repositório](../images/tutorial/github-clonar-repo.png)
 
 Em seguida, navegue até a pasta do seu computador onde o repositório será baixado. É comum colocar repositórios na home do seu usuário:
 
