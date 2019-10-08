@@ -18,10 +18,12 @@ Você ganha por cada pull request emitido em seu nome para qualquer um dos repos
 
 > *= Vamos trabalhar para isso, Padawan! São 16 pull requests feitos por uma única pessoa. Os pull requests precisam ser feitos e aceitos nos seguintes repos (obrigatoriamente): ccuffs/busy, ccuffs/cc.uffs.edu.br, ccuffs/app-cc, ccuffs/ideias, dovyski/opengl-demos. O mundo não é um moranguinho.
 
+![Figura com vários adesivos](./images/stickers.png)
+
 ## Participe
 
 Durante todo o mês de outubro, haverá atividades para que os alunos aprendam sobre git, incrementem seus portfólios, e deixem seu perﬁl no Github cheio de coisas lindas! 
 
-github.com/ccuffs - Organização do curso no Github.
+[![Link para a organização do curso no Github](./images/cc-github-org-teaser.png)](https://github.com/ccuffs)
 
-cc.uffs.edu.br/hacktoberfest - Mais informações sobre o evento.
+[![Link para mais informações sobre o evento no site do curso](./images/cc-site-hacktoberfest-teaser.png)](https://cc.uffs.edu.br/hacktoberfest)
