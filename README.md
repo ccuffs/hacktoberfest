@@ -2,7 +2,9 @@
 
 # Hacktoberfest
 
-Contribua com os projetos de código aberto do curso no Github durante o mês de outubro e ganhe prêmios por isso! 
+Contribua com os projetos de código aberto do curso no Github durante o mês de outubro e ganhe prêmios por isso!
+
+> **DICA:** é novo com git? Sem problema! Dê uma olhada nesse [tutorial rápido](docs/tutorial-git-basico.md) ou nesse [guia básico](https://github.com/mateusKoppe/git-guia-basico).
 
 ## Premiação
 
