@@ -1,24 +1,23 @@
-![Hacktoberfest](./images/header.png?s)
+![Hacktoberfest](./images/header-2020.png)
 
 # Hacktoberfest
 
-Contribua com os projetos de código aberto do curso no Github durante o mês de outubro e ganhe prêmios por isso!
+Contribua com os projetos de código aberto do curso no [Github](https://github.com) durante o mês de outubro e ganhe prêmios por isso! Convide seus amigos e colegas para contribuir compartilhando o link [https://uffs.cc/hf](uffs.cc/hf).
 
 > **DICA:** é novo com git? Sem problema! Dê uma olhada nesse [tutorial rápido](docs/tutorial-git-basico.md) ou nesse [guia básico](https://github.com/mateusKoppe/git-guia-basico).
 
 ## Premiação
 
-Você ganha por cada pull request emitido em seu nome para qualquer um dos repositórios do curso listados em https://github.com/ccuffs. Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
+Você ganha por cada novo _issue_ ou _pull request_ emitido em seu nome para qualquer um dos repositórios do curso listados em [https://github.com/ccuffs](github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
 
-| Pull requests feitos por você e aceitos pelo(s) mantenedor(es) do projeto  | PREMIAÇÃO |
+| AÇÃO  | PREMIAÇÃO * |
 |:---:|:---:|
-| 1  | 1 adesivo |
-| 2  | Concorre no sorteio de uma camiseta do curso |
-| 4  | 1 adesivo |
-| 8  | 1 adesivo |
-| 16*  | Coordenador trabalha um dia inteiro usando um sombreiro Mexicano |
+| Abrir issue novo  | 1 adesivo |
+| Criar um pull request  | 1 adesivo |
+| Criar um pull request que resolve uma issue marcada como "hacktoberfest"  | 1 camiseta personalizada Hacktoberfest 2020 CC UFFS
+ |
 
-> *= Vamos trabalhar para isso, Padawan! São 16 pull requests feitos por uma única pessoa. Os pull requests precisam ser feitos e aceitos nos seguintes repos (obrigatoriamente): ccuffs/busy, ccuffs/cc.uffs.edu.br, ccuffs/app-cc, ccuffs/ideias, dovyski/opengl-demos. O mundo não é um moranguinho.
+> *= As contribuições precisam ser feitas nos repositórios listados em github.com/ccuffs , mesmo que esses sejam forks. Issues novas precisam ser, pelo menos, relacionadas com o repositório onde foram abertas.
 
 ![Figura com vários adesivos](./images/stickers.png)
 
@@ -27,5 +26,3 @@ Você ganha por cada pull request emitido em seu nome para qualquer um dos repos
 Durante todo o mês de outubro, haverá atividades para que os alunos aprendam sobre git, incrementem seus portfólios, e deixem seu perﬁl no Github cheio de coisas lindas! 
 
 [![Link para a organização do curso no Github](./images/cc-github-org-teaser.png)](https://github.com/ccuffs)
-
-[![Link para mais informações sobre o evento no site do curso](./images/cc-site-hacktoberfest-teaser.png)](https://cc.uffs.edu.br/hacktoberfest)
