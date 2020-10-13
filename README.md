@@ -14,8 +14,8 @@ Você ganha por cada novo _issue_ ou _pull request_ emitido em seu nome para qua
 |:---:|:---:|
 | Abrir issue novo  | 1 adesivo |
 | Criar um pull request  | 1 adesivo |
-| Criar um pull request que resolve uma issue marcada como "hacktoberfest"  | 1 camiseta personalizada Hacktoberfest 2020 CC UFFS
- |
+| Criar um pull request que resolve uma issue marcada como "hacktoberfest"  | 1 camiseta personalizada Hacktoberfest 2020 CC UFFS |
+
 
 > *= As contribuições precisam ser feitas nos repositórios listados em github.com/ccuffs , mesmo que esses sejam forks. Issues novas precisam ser, pelo menos, relacionadas com o repositório onde foram abertas.
 
