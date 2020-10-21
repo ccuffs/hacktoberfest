@@ -2,13 +2,13 @@
 
 # Hacktoberfest
 
-Contribua com os projetos de código aberto do curso no [Github](https://github.com) durante o mês de outubro e ganhe prêmios por isso! Convide seus amigos e colegas para contribuir compartilhando o link [https://uffs.cc/hf](uffs.cc/hf).
+Contribua com os projetos de código aberto do curso no [Github](https://github.com) durante o mês de outubro e ganhe prêmios por isso! Convide seus amigos e colegas para contribuir compartilhando o link [uffs.cc/hf](https://uffs.cc/hf).
 
 > **DICA:** é novo com git? Sem problema! Dê uma olhada nesse [tutorial rápido](docs/tutorial-git-basico.md) ou nesse [guia básico](https://github.com/mateusKoppe/git-guia-basico).
 
 ## Premiação
 
-Você ganha por cada novo _issue_ ou _pull request_ emitido em seu nome para qualquer um dos repositórios do curso listados em [https://github.com/ccuffs](github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
+Você ganha por cada novo _issue_ ou _pull request_ emitido em seu nome para qualquer um dos repositórios do curso listados em [github.com/ccuffs](https://github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
 
 | AÇÃO  | PREMIAÇÃO * |
 |:---:|:---:|
@@ -17,7 +17,7 @@ Você ganha por cada novo _issue_ ou _pull request_ emitido em seu nome para qua
 | Criar um pull request que resolve uma issue marcada como `hacktoberfest` | 1 camiseta personalizada Hacktoberfest 2020 CC UFFS |
 
 
-> *= As contribuições precisam ser feitas nos repositórios listados em [https://github.com/ccuffs](github.com/ccuffs), mesmo que esses sejam forks. Issues novas precisam ser, pelo menos, relacionadas com o repositório onde foram abertas. 
+> *= As contribuições precisam ser feitas nos repositórios listados em [github.com/ccuffs](https://github.com/ccuffs), mesmo que esses sejam forks. Issues novas precisam ser, pelo menos, relacionadas com o repositório onde foram abertas. 
 
 ![Figura com vários adesivos](./images/stickers.png)
 
